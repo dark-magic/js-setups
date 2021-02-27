@@ -4,7 +4,7 @@ so yet, do this before continuing with this setup. The aim of these setups is to
 and understandable, and there exists a folder for each step with the project files like they were
 after that step. Each step is a valid setup on its own, this means that you can quit at any given
 time when you are happy with your setup. All code snippets start with a comment with the file name, 
-no need to add them. These comments will for example **not work** in a json file, and 
+no need to add them. These comments will, for example, **not work** in a json file, and 
 **must be ommited**.
 
 So, let's get started. For this project it is expected that node and npm are installed. 
